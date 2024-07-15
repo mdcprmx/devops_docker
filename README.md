@@ -1,2 +1,2 @@
 # devops_docker
-sdsdsdsdsds
+Docker practice project from s21
